@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Computer Science
 - 🔭 I’m currently working on @E2PC
 
+<!--
+
  My blog:
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
 
