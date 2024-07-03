@@ -1,7 +1,8 @@
 ## Hi there 👋
 
-- 🌱 I’m currently learning Computer Science
-- 🔭 I’m currently working on @E2PC
+- 🎓 I'm currently studying Computer Science
+- 🌱 I’m currently learning DevOps
+- 🔭 I’m currently member of [E2PC](https://e2pc.unicentro.br/)
 
 <!--
 
