@@ -1,13 +1,13 @@
 #Acessem esse [link](https://github.com/Ileriayo/markdown-badges/blob/master/README.md)
 
-
+<!--
 ## Hi there 👋
 
 - 🎓 I'm currently studying Computer Science
 - 🌱 I’m currently learning DevOps
 - 🔭 I’m currently member of [E2PC](https://e2pc.unicentro.br/)
 
-<!--
+
 
  My blog:
 ![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)
